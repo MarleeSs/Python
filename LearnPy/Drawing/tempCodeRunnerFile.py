@@ -1,0 +1,2 @@
+
+wdw = turtle.Screen()
